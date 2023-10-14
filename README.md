@@ -13,13 +13,12 @@ Dataset contains 7 columns and 5000 rows with CSV extension. The data contains t
 7. 'Address': Address of the houses.
 
 # Exploratory Data Analysis
-Descriptive Statistics
-Correlation Analysis
-Feature Analysis and Data Visualization
-Missing Values Checking
-Data Processing
-Missing Value Handling
-Create New Additional Feature from Feature in Dataset
-Categorical Encoding
-House Price Prediction Model
-Linear Regression
+1. Descriptive Statistics
+2. Correlation Analysis
+3. Feature Analysis and Data Visualization
+4. Missing Values Checking
+5. Data Processing
+6. Missing Value Handling
+7. Categorical Encoding
+8. House Price Prediction Model
+9. Linear Regression
